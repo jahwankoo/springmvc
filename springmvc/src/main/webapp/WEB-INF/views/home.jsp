@@ -6,7 +6,6 @@
 </head>
 <body>
 <h1>
-	Hello world!! <br />
 	Hello world!!
 </h1>
 
